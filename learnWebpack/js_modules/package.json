@@ -1,0 +1,12 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "2.20-rc.0"
+  }
+}
